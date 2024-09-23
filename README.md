@@ -13,6 +13,6 @@
 <br>
 
 <p>
-<img src="" width="300px">
-<img src="" width="300px">
+<img src="https://raw.githubusercontent.com/FelipeCosmi/Easy-Shopping-Responsividade/34114656183658ee330ec44b34ec3438593d0ea9/Imgs/Phone.png" width="300px">
+<img src="https://raw.githubusercontent.com/FelipeCosmi/Easy-Shopping-Responsividade/34114656183658ee330ec44b34ec3438593d0ea9/Imgs/Desktop.png" width="300px">
 </p>
